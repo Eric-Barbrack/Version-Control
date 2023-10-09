@@ -6,7 +6,8 @@ The software will create input boxes and the user would have to type in their an
 
 The software has an open-sourced license. 
 
-Files required: /VersionControl/CODE-OF-CONDUCT.md, README.md, work.ipynb.
+Files required: /VersionControl/CODE-OF-CONDUCT.md, README.md, work.ipynb. 
+
 Group Members: Chris Fu, Eric Barbrack, and Feiyang Huang
 
 How to Contribute:
